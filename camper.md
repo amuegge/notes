@@ -5,11 +5,17 @@
 - If the yellow ball lock is in place, the all silver key will let you remove it. (Throw it back on please if you park the trailer)
 - Remove cotter pin, raise ball coupler lever, fit ball onto coupler, lower ball coupler and ensure cotter pin is replaced.
 - Sway bars are fitted into the ball mount - pull up past the notch and rotate towards trailer.  Remove pin from the trailer mounted sway bar brackets.  Hang chain from (ideally) the 4th link taking care to NOT hang from the link, not pinching the slack link between the post.  It should look like the following: where () are the ends of the hanger link O are the other connecting chain links and X is the pin from the bracket ->
+
   ( ) O O X ( )     -- up direction -->
+
   and not like->
+
   ( ) O X O ( )     -- up -->
+
   or 
+
   ( ) X O O ( )
+
   There is a foot long silver pipe in the cubby that will help lever the chain bracket up.  Replace the clips on the brackets when they are up.  Make sure to put the pipe back in the cubby.
 - Safety chains are hooked on underneath the ball mount over top of the sway bars
 - Sway plate has two cotter pins at the ends, remove them.  Ensure the bar is not tensioned by rotating the control rod towards off.  If it is engaged, the rod will be tougher to turn.  Put the vertical ball onto the ball mount to the right of the trailer ball.  Push the Sway plate to extent or retract it so that you can mount the horizontal ball on the trailer toungue.  Replace both cotter pins.  Turn control rod "on" until tensioned.
