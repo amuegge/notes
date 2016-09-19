@@ -55,19 +55,20 @@
 - you'll need to find a silver rod with a circle on one end and a 90 degree bend on the other in the cubby
 - turn the black knobs on the backside of the cream coloured awning uprights until they are loose.  halfway up each upright, there's a plastic lever with a keeper clip on it.  push the keeper clip up and flip the lever upwards (stops perpendicular to the upright).
 - use the circle end of the rod to hook over a small toggle at the car end of the awning canvas roll.  pull or push (not sure) to move the toggle to the other position. 
-- use the bend end of the rod to hook into the black strap end halfway between the uprights.  if you've done the last two steps right, you should be able to pull the rod down and extend the awning outwards from the camper.  if you go to far, it's hard to open the door.  you can remove the uprights and use them vertically from the ground for more space, but don't.  it's a hassle.
-- to put the awning back, pull the black 1/2way strap down, switch the toggle at the car end (that you switched with the circle end of the rod) and slowly let it retract.
-- once awning is up, flip the cream clips down and tighten the black knobs.
+- use the bend end of the rod to hook into the black strap end halfway between the uprights.  if you've done the last two steps right, you should be able to pull the rod down and extend the awning outwards from the camper (pull it by hand when you can).  if you extract the awning to far, it's hard to open the door because of the angle the awning assumes.  you can remove the uprights and use them vertically from the ground for more space, but don't.  it's a hassle.
+- to put the awning back, hold the black strap tense and switch the toggle at the car end to the other position (that you switched with the circle end of the rod) and slowly let it retract towards the camper.
+- once awning is up, flip the cream upright clips down and tighten the black knobs, replace silver rod in the cubby
 
 ### portable awning
-- grey bag about 6' long - has a foldout structure and tarp top.  it's awesome for rain or for shade.
+- grey bag about 6' long - has a foldout structure and tarp top.  it's awesome for rain or for shade.  the legs take some figuring out, but they extend in two parts with those metal bumps on two sides of the legs to retract them.  it's easier to figure out than to explain.
+- *insert instruction link here*
 
 ## propane
 - behind the threaded rod holding the tanks down there's a plastic supply switcher pointing to the left or right tank, rotate it to switch where the propane is coming from.
 - open the valve of the tank pointed at by above
 - switch the last two if you need to
 - close tanks when you're driving
-- fridge runs on propane when set to 'gas'.  cools down faster on gas, maybe doesn't at all on power.  it's a bit tricky to get running.  once propane is hooked up and valve is opened, -light one burner on the inside stove- and flip fridge from off to gas.  the 'gas' indicator on the fridge should turn on with a solid orange light and stay solid.  if it starts flashing the regulator on the tank has stopped the propane flow.  it usually works with one burner going and usually doesn't if it is off.
+- fridge runs on propane when set to 'gas'.  cools down faster on gas, maybe doesn't at all on power (seems like only freezer is on?).  it's a bit tricky to get running on propane.  once propane is hooked up and valve is opened, -light one burner on the inside stove- and flip fridge from off to gas.  the 'gas' indicator on the fridge should turn on with a solid orange light and stay solid.  if it starts flashing the regulator on the tank has stopped the propane flow.  it usually works with one burner going and usually doesn't if it is off.
 - internal heater runs on propane too.  the fan for it is crazy loud and you probably don't want to use it.  wakes me up in the night, let alone kids.  we have a electrical black stading heater for that - see heater below.
 - there's a gas port on the outside underbody of the trailer that mates to the gas hose for the table/burner combo in the heavy black bag - it's covered by a yellow rubber cover.  remove cover and hook it up the only way it goes.  There's a cutoff valve above the pipe to which the yellow cover was connected.  Turning it inline with the pipe opens gas to the burner, turning it perpendicular shuts it off.  I think either the burner, hose or the connectors leak - not enough to smell when it's burning, but turn off the cutoff when you're not actually operating the burner.  This sounds alarming - I've only smelled gas when operating the external stove while the cutoff is on, just to put your mind a little more at ease.
  
