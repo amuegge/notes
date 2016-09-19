@@ -47,7 +47,7 @@
 
 # Situational stuff and amenities
 ## rain
-- the white shelf should be somewhere where it won't get rained on.  it's fine, but if the rain is strong enough dirt splashes back on / up into it and it sucks to clean off.  putting it under the awning is a good plan if rain's in the forecast
+- the white drawer unit should be somewhere where it won't get rained on.  it's fine, but if the rain is strong enough dirt splashes back on / up into it and it sucks to clean off.  putting it under the awning is a good plan if rain's in the forecast
 - the roof fan has a cover, lower it to make sure rain doesn't get in.  ditto for the washroom fan.
 ### awning
 - you'll need to find a silver rod with a circle on one end and a 90 degree bend on the other in the cubby
