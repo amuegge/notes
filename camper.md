@@ -4,7 +4,7 @@
 - Ball mount connects to truck with one bolt secured by a cotter pin (I believe there's only one hole on the hitch mount on truck that this connects to?).
 - If the yellow ball lock is in place, the all silver key will let you remove it. (Throw it back on please if you park the trailer)
 - Remove cotter pin, raise ball coupler lever, fit ball onto coupler, lower ball coupler and ensure cotter pin is replaced.
-- Sway bars are fitted into the ball mount - pull up past the notch and rotate towards trailer.  Remove pin from the trailer mounted sway bar brackets.  Hang chain from (ideally) the 4th link taking care to NOT hang from the link, not pinching the slack link between the post.  It should look like the following: where () are the ends of the hanger link O are the other connecting chain links and X is the pin from the bracket ->
+- Sway bars are fitted into the ball mount - pull up past the notch and rotate towards trailer.  Remove pin from the trailer mounted sway bar brackets.  Hang chain from (ideally) the 4th link taking care to ensure the link hangs from the pin, not pinching the slack link between the post.  It should look like the following: where () are the ends of the hanger link O are the other connecting chain links and X is the pin from the bracket ->
 
   ( ) O O X ( )     -- up direction -->
 
