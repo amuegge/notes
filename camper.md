@@ -29,7 +29,7 @@
 ## Driving notes
 - if it's windy the trailer may feel like it's swaying.  you can engage trailer brakes with a lever that swings right to left on the bottom of the brake controller.
 
-## Setting up
+## Setting up at campsite
 - lower the main hitch post.
 - take all the 'hitching up' connections off (i put the bars under the tounge generally, out of the rain and away from the kids - i also remove the ball mount as it can bang into shit when you're driving around with the trailer.)
 - adjust hitch post to make camper level-ish.
